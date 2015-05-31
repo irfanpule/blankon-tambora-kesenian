@@ -1,0 +1,37 @@
+# "BlankOn Tambora Kiri" theme for SLIM
+# winardiaris
+
+# Messages (ie: shutdown)
+msg_color               #FFFFFF
+msg_font                Sans:size=18:bold:dpi=75
+msg_x                   50%
+msg_y                   60%
+msg_shadow_color 		#000000
+msg_shadow_xoffset 		1
+msg_shadow_yoffset 		1
+
+# valid values: stretch, tile
+background_style        stretch
+background_color        #4D4D4D
+
+# Input controls
+input_panel_x           10%
+input_panel_y           80%
+input_name_x            59
+input_name_y            198
+input_font              Sans:size=12:dpi=75
+input_color           	#000000
+
+# Username / password request
+username_font           Sans:size=14:bold:dpi=75
+username_color          #FFFFFF
+username_x              49
+username_y              166
+password_x              49
+password_y              166
+username_shadow_color   #000000
+username_shadow_xoffset 1
+username_shadow_yoffset 1
+
+username_msg            Username:
+password_msg            Password:
